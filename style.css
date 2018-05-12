@@ -1,0 +1,97 @@
+* {
+    font-size: 100%;
+}
+body {
+    background-color:gray;
+    margin: 0px;
+    text-align: center;
+    width: 95%;
+}
+h1 {
+    background-color: white;
+    color:gray;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    padding: 20px;
+    width: 83%;
+}
+h2 {
+    background-color: white;
+    color:gray;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    padding: 20px;
+    width: 83%;
+}
+p {
+    padding: 10px 0px;
+}
+#wrapper {
+    width: 960px;
+    margin: auto;
+    background-color: gray;
+}
+#meat {
+    width: 960px;
+    margin: auto;
+    background-color: gray;
+}
+#content {
+    border-style: solid;
+    background-color: white;
+    color: gray;
+    float: left;
+    width: 50%;
+    height: 250px;
+    margin-left: 37px;
+    text-align: center;
+}
+#MidBox {
+    text-align: center;
+    background-color:gray;
+    color: white;
+    width: 96%;
+    height: 170px;
+    margin-left: 10;
+    
+    
+}
+#TopBox {
+    background-color: white;
+    color: gray;
+   
+    margin-bottom: 10px;
+    width: 95%;
+    height: 45px;
+    margin-left: 3%;
+}
+#BottomBox {
+    background-color: white;
+    color: gray;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 95%;
+    height: 45px;
+    margin-left: 3%;
+}
+#aside {
+    border-style: solid;
+    background-color: white;
+    color: gray;
+    float: left;
+    width: 35%;
+    height: 250px;
+    margin-left: 16px;
+    margin-bottom: 20px;
+}
+footer {
+    background-color: white;
+    color: gray;
+    float: auto;
+    clear: both;
+    width: 83%;
+    margin-left: 40px;
+    padding: 20px;
+}
